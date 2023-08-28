@@ -6,6 +6,7 @@
     padding: 0;
 
 }
+
 .info{display: flex;}
 
 header {text-align: center;padding: 5px;}
@@ -44,4 +45,4 @@ footer{
 .sub_info p {margin: 0;}
 .sub_info h6 {margin-top: 10px;margin-bottom: 0;}
 
- 
+
